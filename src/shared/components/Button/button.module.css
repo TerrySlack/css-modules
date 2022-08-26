@@ -1,0 +1,5 @@
+//Put our default button css here.  Could also be put in the index.css file and become global
+
+.button {
+  width: 350px;
+}

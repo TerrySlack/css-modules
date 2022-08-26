@@ -1,0 +1,10 @@
+//Put our default button css here.  Could also be put in the index.css file and become global
+
+.checkbox-green {
+  color: #fff;
+  background-color: green;
+}
+.checkbox-salmon {
+  color: #fff;
+  background-color: salmon;
+}
