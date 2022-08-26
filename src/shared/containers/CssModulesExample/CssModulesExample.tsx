@@ -40,7 +40,7 @@ export function CssModulesExampleContainer() {
       swapCheckBox2Class={swapCheckBox2Class}
       button1Message={button1Message}
       button2Message={button2Message}
-      title="Click the buttons to change classes on the  switch (toggle) and Button, one at a time"
+      title="Click the buttons to change classes on the  switch (toggle) and Button, one at a time, using CSS Module classes"
       onButton1Click={onButton1Click}
       onButton2Click={onButton2Click}
     />

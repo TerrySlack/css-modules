@@ -17,7 +17,7 @@
     "sourceType": "module"
   },
   "plugins": ["react", "@typescript-eslint", "import"],
-  //"ignorePatterns": [".storybook/*.js", "config/*.js"],
+  //"ignorePatterns": [".storybook/*.js"],
   "rules": {
     "no-shadow": "off",
     "no-useless-constructor": "off",
@@ -52,8 +52,7 @@
     "import/prefer-default-export": "off",
     "react/jsx-closing-bracket-location": "off",
     "react/jsx-props-no-spreading": "off",
-    "react/react-in-jsx-scope": "off",
-    "react/require-default-props": "off"
+    "react/react-in-jsx-scope": "off"
   },
   "settings": {
     "import/resolver": {
